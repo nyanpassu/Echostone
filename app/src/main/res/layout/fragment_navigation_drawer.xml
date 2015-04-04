@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/white">
+
+    <TextView
+        android:id="@id/drawer_play_now"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_item_material_medium"
+        android:text="@string/drawer_play_now"/>
+
+    <TextView
+        android:id="@id/drawer_music_library"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_item_material_medium"
+        android:text="@string/drawer_music_library" />
+
+    <TextView
+        android:id="@id/drawer_record_library"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_item_material_medium"
+        android:text="@string/drawer_record_library" />
+
+    <TextView
+        android:id="@id/drawer_playlists"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_item_material_medium"
+        android:text="@string/drawer_playlists" />
+
+</LinearLayout>

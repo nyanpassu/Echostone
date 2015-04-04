@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="drawer_layout_content" type="id" />
+    <item name="navigation_drawer" type="id" />
+    <item name="item_material_image" type="id" />
+    <item name="item_material_text" type="id" />
+    <item name="track_title" type="id" />
+    <item name="album_title" type="id" />
+    <item name="album_cover" type="id" />
+    <item name="title_recent_add" type="id" />
+    <item name="more_recent_add" type="id" />
+    <item name="title_recent_played" type="id" />
+    <item name="more_recent_played" type="id" />
+    <item name="grid_recent_played" type="id" />
+    <item name="grid_recent_add" type="id" />
+    <item name="drawer_play_now" type="id" />
+    <item name="drawer_music_library" type="id" />
+    <item name="drawer_record_library" type="id" />
+    <item name="drawer_playlists" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="activity_base_content" type="id" />
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Echostone</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="desc_item_material_image">image of an item</string>
+    <string name="title_activity_album">AlbumActivity</string>
+    <string name="title_activity_play_list">PlayListActivity</string>
+
+    <string name="recent_added">Recent added</string>
+    <string name="recent_played">Recent played</string>
+
+    <string name="drawer_play_now">Play Now</string>
+    <string name="drawer_music_library">Music Library</string>
+    <string name="drawer_record_library">Record Library</string>
+    <string name="drawer_playlists">Playlists</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+</resources>
